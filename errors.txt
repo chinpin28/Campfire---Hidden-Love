@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 25: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "The girl"
-              ^
+File "game/script.rpy", line 196: Only one say menuitem may exist per menu.
+    c "You did this all in one night?"
+                                      ^
 
 Ren'Py Version: Ren'Py 8.5.2.26010301
-Sat Feb 28 15:49:59 2026
+Sun Mar  1 07:59:31 2026
