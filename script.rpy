@@ -4,14 +4,6 @@ define m = Character(_("Me"), color="#c8c8ff")
 define unknown = Character(_("???"), color="#ffffff")
 define c = Character(_("CEO"), color="#b46fbc") 
 
-default screen_width = 1920 
-default screen_height = 1080
-
-    # Define a default transform to apply to all images
-transform fit:
-    xysize (screen_width, screen_height)
-    fit "contain" 
-
 default player_name = "Player"
 
 default ceo_name = "idk"
